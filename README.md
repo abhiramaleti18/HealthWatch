@@ -1,4 +1,4 @@
-# HealthWatch — Community Health Surveillance & Early Warning System
+# Health-Watch — Community Health Surveillance & Early Warning System
 
 A full-stack web application that enables community health workers to report water-borne disease cases, analyzes disease trends with a rule-based prediction engine, and provides AI-powered alerts, recommendations, and awareness content to health authorities — built to help detect outbreaks before they spread.
 
