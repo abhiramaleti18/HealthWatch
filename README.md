@@ -17,7 +17,7 @@ A full-stack web application that enables community health workers to report wat
 | Health Officer | _register your own_ | — |
 | Volunteer | _register your own_ | — |
 
-Registration is open — create an account with any role to explore the corresponding dashboard.
+Create an account with any role to explore the corresponding dashboard.
 
 ---
 
