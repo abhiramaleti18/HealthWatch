@@ -7,20 +7,6 @@ A full-stack web application that enables community health workers to report wat
 
 > Note: the backend is hosted on Render's free tier, which spins down after periods of inactivity. The first request after idle time may take 30–50 seconds to respond while the server wakes up — subsequent requests are fast.
 
----
-
-## Demo Accounts
-
-| Role | Email | Password |
-|---|---|---|
-| Admin | _register your own_ | — |
-| Health Officer | _register your own_ | — |
-| Volunteer | _register your own_ | — |
-
-Create an account with any role to explore the corresponding dashboard.
-
----
-
 ## Overview
 
 HealthWatch focuses on **early detection**, **centralized surveillance**, and **faster response** rather than medical diagnosis. Field volunteers report symptoms and case data from villages; the system aggregates this data, runs it through a rule-based risk-scoring engine, and automatically generates alerts with AI-assisted recommendations for health officers and administrators to act on.
