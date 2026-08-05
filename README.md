@@ -105,15 +105,6 @@ cd HeathWatch
 npm install
 ```
 
-Create a `.env` file in the project root:
-
-```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/health-surveillance
-JWT_SECRET=your_jwt_secret_here
-NVIDIA_API_KEY=your_nvidia_api_key_here
-```
-
 Start the backend:
 
 ```bash
