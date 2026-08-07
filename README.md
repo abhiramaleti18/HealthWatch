@@ -148,7 +148,3 @@ health-app/
 - GIS heatmap visualization of outbreak risk
 - Offline-first reporting with local sync
 - Integration with government health data systems
-
----
-
-Built as a full-stack portfolio project demonstrating role-based authentication, real-time data aggregation, rule-based predictive analytics, and applied LLM integration.
