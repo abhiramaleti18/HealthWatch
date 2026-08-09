@@ -70,8 +70,6 @@ All routes except `/auth/register`, `/auth/login`, and `GET /awareness` require 
 
 ## Prediction Engine
 
-Risk score is calculated from the last 7 days of reports per village:
-
 | Condition | Points |
 |---|---:|
 | 5+ diarrhea cases (cumulative) | +20 |
